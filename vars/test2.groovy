@@ -1,4 +1,4 @@
 def contdownload(jobname)
 {
-git ""
+  git "https://github.com/Sanathhub/${jobname}.git"
 }
