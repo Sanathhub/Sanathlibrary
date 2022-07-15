@@ -1,4 +1,4 @@
-def contdownload()
+def contdownload(jobname)
 {
-  git "https://github.com/Sanathhub/Mymaven.git"
+  git "https://github.com/Sanathhub/$jobname.git"
 }
