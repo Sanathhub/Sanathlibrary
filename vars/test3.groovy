@@ -1,4 +1,4 @@
 def gitpath(repo)
 {
-  git "${repo} 
+  git "${repo}"
 }
